@@ -1,0 +1,5 @@
+이   름	학            번	이            메          일	학과
+박원순	200112000	pws@induk.ac.kr	comso
+김문수	200213001	kms@induk.ac.kr	electronics
+안철수	200314023	acs@induk.ac.kr	design
+유응구	200412000	egy@induk.ac.kr	software
